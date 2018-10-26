@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+# url: https://koppl.in/indigo
 your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -46,10 +46,10 @@ disqus:
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
+# twitter: mytwitter
 instagram: @marcospaulogarrido
 linkedin: marcos-paulo-36668093
 facebook: myfacebook
-# twitter: mytwitter
 github: MarcosPauloGarrido
 email: marcos_paulo_18@hotmail.com
 
